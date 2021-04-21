@@ -11,7 +11,7 @@ Should work in Test and Classic mode.
 1. Join Quiz
 2. Open console and paste this
 ```ts
-fetch("https://github.com/Bre19/quizizzjs/blob/main/dist/bundle.js")
+fetch("https://raw.githubusercontent.com/Bre19/quizizzjs/main/dist/bundle.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
