@@ -31,7 +31,3 @@ fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/oldmethod/dist/
 ```
 3. Enter user name of any player(he won't get points even if he sent valid answer).
 4. Go to step 2
-
-
-As we can see on this screenshot, anwser **www.quizizz.com** has highest opacity, that means its valid
-![screenshot](/docs/screenshot_1.png)
