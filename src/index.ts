@@ -82,8 +82,7 @@ const getRoomHash = (): string => {
 }
 
 const msg = `%c 
-    Modified by Brebre 
-    Script created by gbaranski#5119
+    Modified by Brebre
       `;
 
 
