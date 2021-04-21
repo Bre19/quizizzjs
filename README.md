@@ -3,7 +3,6 @@
 Methods:
 
 - [Fetching Quizizz API](#fetching-quizizz-api)
-- [Sending answers as someone else](#sending-answers-as-someone-else)(old method)
 
 # Methods
 ## Fetching Quizizz API
