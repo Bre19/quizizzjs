@@ -1,9 +1,5 @@
 # quizizz-cheat
 
-Methods:
-
-- [Fetching Quizizz API](#fetching-quizizz-api)
-
 # Methods
 ## Fetching Quizizz API
 
